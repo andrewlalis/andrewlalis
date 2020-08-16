@@ -23,4 +23,4 @@
 - **Over 3 years** of experience in web development in Php and Spring Boot.
 - 🎓 **3 years** of experience as a *Technical Supervisor* for multiple University-level courses.
 
-[youtube]: https://youtube.com/UC9X4mx6-ObPUB6-ud2IGAFQ
+[youtube]: https://www.youtube.com/channel/UC9X4mx6-ObPUB6-ud2IGAFQ
