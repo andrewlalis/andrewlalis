@@ -10,15 +10,15 @@
 
 ### Ask me about...
 
-- <img width="48px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/java_icon.png" alt="Java" /> Java
-- <img width="48px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/spring_boot.png" alt="Spring Boot" />Spring Boot
-- <img width="48px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/jpa_logo.jpg" alt="JPA and Hibernate" /> The Java Persistence API and Hibernate ORM
-- <img width="48px" src="https://github.com/andrewlalis/andrewlalis/blob/master/img/php_logo.svg" alt="Php" /> Php
-- <img width="48px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/mysql_logo.jpg" alt="MySQL" /> MySQL / Relational Database Design
-- <img width="48px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/arduino_logo.png" alt="Arduino" /> Arduino / Embedded Device Engineering
-- <img width="48px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/minecraft_grass.png" alt="Minecraft Grass" /> Modded Minecraft Computer Integration ,especially with <img width="48px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/lua_logo.png" alt="Lua" />
-- <img width="48px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/python_logo.png" alt="Python" /> Python scripting, with <img width="64px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/django_logo.png" alt="Django" />
-- <img width="48px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/js_logo.png" alt="Javascript" /> Javascript, especially ES6, with <img width="48px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/jquery_logo.gif" alt="jQuery" />
+- <img width="24px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/java_icon.png" alt="Java" /> Java
+- <img width="24px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/spring_boot.png" alt="Spring Boot" />Spring Boot
+- <img width="24px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/jpa_logo.jpg" alt="JPA and Hibernate" /> The Java Persistence API and Hibernate ORM
+- <img width="24px" src="https://github.com/andrewlalis/andrewlalis/blob/master/img/php_logo.svg" alt="Php" /> Php
+- <img width="24px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/mysql_logo.jpg" alt="MySQL" /> MySQL / Relational Database Design
+- <img width="24px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/arduino_logo.png" alt="Arduino" /> Arduino / Embedded Device Engineering
+- <img width="24px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/minecraft_grass.png" alt="Minecraft Grass" /> Modded Minecraft Computer Integration ,especially with <img width="24px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/lua_logo.png" alt="Lua" />
+- <img width="24px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/python_logo.png" alt="Python" /> Python scripting, with <img width="32px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/django_logo.png" alt="Django" />
+- <img width="24px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/js_logo.png" alt="Javascript" /> Javascript, especially ES6, with <img width="24px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/jquery_logo.gif" alt="jQuery" />
 
 ### You can reach me via...
 
