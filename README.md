@@ -25,7 +25,7 @@
 - ✉️ <andrewlalisofficial@gmail.com>
   *(or <andrew.lalis@gyrobian.nl> for **Gyrobian**-related business inquiries)*
 - 🎮 `Andrew.#3939` on Discord
-- [<img align="left" alt="Andrew Lalis | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> My YouTube Channel](https://www.youtube.com/channel/UC9X4mx6-ObPUB6-ud2IGAFQ) *(mostly modded Minecraft computer sciency stuff)*
+- [<img alt="Andrew Lalis | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> My YouTube Channel](https://www.youtube.com/channel/UC9X4mx6-ObPUB6-ud2IGAFQ) *(mostly modded Minecraft computer sciency stuff)*
 - 🐦 [@andrewlalis](https://twitter.com/andrewlalis) on Twitter *(although I rarely use it)*
 
 ### Shameless Wall of Self-Promotion
