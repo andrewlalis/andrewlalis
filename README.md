@@ -1,6 +1,5 @@
 ## 👋 I'm Andrew, and this is my GitHub profile! Feel free to have a look around.
 
-- Currently working on backend **Php** development, and backend **Java** ☕ / **Spring-Boot** 🍃 development at [Gyrobian](https://gyrobian.nl).
 - Proponent of Free/Open Source Software. Unless otherwise stated, everything you find here is free to use for your own needs!
 - 💾 Relational Database Enthusiast!
 
@@ -38,7 +37,6 @@ A hand-picked selection of repositories that stand out as something that might b
 ### You can reach me via...
 
 - ✉️ <andrewlalisofficial@gmail.com>
-  *(or <andrew.lalis@gyrobian.com> for **Gyrobian**-related business inquiries)*
 - 🎮 `Andrew.#3939` on Discord
 - [<img alt="Andrew Lalis | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> My YouTube Channel](https://www.youtube.com/channel/UC9X4mx6-ObPUB6-ud2IGAFQ) *(mostly modded Minecraft computer sciency stuff)*
 - 🐦 [@andrewlalis](https://twitter.com/andrewlalis) on Twitter *(although I rarely use it)*
