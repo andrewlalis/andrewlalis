@@ -10,10 +10,10 @@
 
 <p float="left">
 	<img width="64px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/java_icon.png" alt="Java" />
-	<img width="64px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/spring_framework_logo.png" alt="Spring Boot" />
-	<img width="64px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/hibernate_logo.png" alt="JPA and Hibernate" />
-	<img width="64px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/mysql_logo.png" alt="MySQL" />
-	<img width="64px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/mariadb_logo.png" alt="MariaDB" />
+	<img height="64px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/spring_framework_logo.png" alt="Spring Boot" />
+	<img height="64px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/hibernate_logo.png" alt="JPA and Hibernate" />
+	<img height="64px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/mysql_logo.png" alt="MySQL" />
+	<img height="64px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/mariadb_logo.png" alt="MariaDB" />
 </p>
 <p float="left">
 	<img width="64px" src="https://github.com/andrewlalis/andrewlalis/blob/master/img/php_logo.svg" alt="Php" />
