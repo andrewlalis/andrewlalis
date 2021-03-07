@@ -8,8 +8,11 @@
 
 ### My Tech Stack:
 
-|<img width="64px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/java_icon.png" alt="Java" />|<img width="64px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/spring_framework_logo.png" alt="Spring Boot" />|<img width="64px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/hibernate_logo.png" alt="JPA and Hibernate" />|
-|<img width="64px" src="https://github.com/andrewlalis/andrewlalis/blob/master/img/php_logo.svg" alt="Php" />|<img width="64px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/arduino_logo.png" alt="Arduino" />|<img width="64px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/python_logo.png" alt="Python" />|
+| <img width="64px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/java_icon.png" alt="Java" /> | <img width="64px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/spring_framework_logo.png" alt="Spring Boot" /> | <img width="64px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/hibernate_logo.png" alt="JPA and Hibernate" /> |
+| <img width="64px" src="https://github.com/andrewlalis/andrewlalis/blob/master/img/php_logo.svg" alt="Php" /> | <img width="64px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/arduino_logo.png" alt="Arduino" /> | <img width="64px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/python_logo.png" alt="Python" /> |
+
+
+
 |<img width="64px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/django_logo.png" alt="Django" />|<img width="64px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/js_logo.png" alt="Javascript" />|<img width="64px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/jquery_logo.gif" alt="jQuery" />|
 |<img width="64px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/minecraft_grass.png" alt="Minecraft Grass" />|<img width="64px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/lua_logo.png" alt="Lua" />|<img width="64px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/html_5_logo.png" alt="HTML 5" />|
 
