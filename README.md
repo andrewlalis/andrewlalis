@@ -9,7 +9,7 @@
 ### My Tech Stack:
 
 <p float="left">
-	<img width="64px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/java_icon.png" alt="Java" />
+	<img height="64px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/java_icon.png" alt="Java" />
 	<img height="64px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/spring_framework_logo.png" alt="Spring Boot" />
 	<img height="64px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/hibernate_logo.png" alt="JPA and Hibernate" />
 	<img height="64px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/mysql_logo.png" alt="MySQL" />
