@@ -14,7 +14,7 @@
 	<img height="64px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/hibernate_logo.png" alt="JPA and Hibernate" />
 	<img height="64px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/mysql_logo.png" alt="MySQL" />
 	<img height="64px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/mariadb_logo.png" alt="MariaDB" />
-	<img height="64px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/postgres_logo.png" alt="PostgreSQL" />
+	<img height="64px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/postgre_logo.png" alt="PostgreSQL" />
 	<img height="64px" src="https://github.com/andrewlalis/andrewlalis/blob/master/img/php_logo.svg" alt="Php" />
 	<img height="64px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/arduino_logo.png" alt="Arduino" />
 	<img width="64px" src="https://github.com/andrewlalis/andrewlalis/raw/master/img/python_logo.png" alt="Python" />
