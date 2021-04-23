@@ -32,6 +32,7 @@ I'm a software developer, schema engineer, and co-founder of [Gyrobian](https://
 ### Shameless Wall of Self-Promotion
 
 - 🏆 Oracle Certified Java SE 7 Programmer
+- 🏆 Oracle Certified Java SE 11 Developer
 - **Over 9 years** of experience in Java programming
 - **Over 3 years** of experience in web development in Php and Spring Boot.
 - 🎓 **4 years** of experience as a *Technical Supervisor* for multiple University-level courses.
