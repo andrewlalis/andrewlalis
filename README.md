@@ -1,38 +1,31 @@
 ## 👋 I'm Andrew, and this is my GitHub profile!
 
-I'm a software developer, schema engineer, and co-founder of [Gyrobian](https://www.gyrobian.nl/).
+I'm a software engineer, and co-founder of [Gyrobian Software & Consulting](https://www.gyrobian.nl/).
 
-### Software I Use
+My main areas of expertise are *relational schema design*, *backend web API development*, and the *Java/JVM ecosystem*.
 
-* [**Java**](https://en.wikipedia.org/wiki/Java_(programming_language)), [**Spring Boot**](https://spring.io/projects/spring-boot), [**JPA / Hibernate**](https://hibernate.org/), [**Maven**](https://maven.apache.org/), [**JUnit**](https://junit.org/junit5/)
-* [**MySQL**](https://www.mysql.com/), [**MariaDB**](https://mariadb.com/), [**PostGreSQL**](https://www.postgresql.org/)
-* [**PHP**](https://www.php.net/), [**Python**](https://www.python.org/), [**Django**](https://www.djangoproject.com/), [**Javascript**](https://en.wikipedia.org/wiki/JavaScript), [**Lua**](http://www.lua.org/)
+### Interesting Projects I've Worked On
 
+Here are a few projects that I've created (or just contributed to) which might be worth taking a look at, if you want to see what sort of things I get up to.
 
-### Repositories Worth Checking Out
-- [TengwarTranslator](https://github.com/andrewlalis/TengwarTranslator) and [TenwarTranslatorLibrary](https://github.com/andrewlalis/TengwarTranslatorLibrary) Simple Java/Swing desktop application which can transform text from ASCII characters to Tengwar (*Tolkien's elvish script*) and back.
+- [Concord](https://github.com/andrewlalis/Concord) is an open-source, independent communication platform modelled after the likes of Discord and Slack. Using end-to-end encryption and a privacy-first design, the vision is to create a system for effortless communication within communities, without losing trust. The official project maintains a barebones command-line client program, but anyone is free to develop a client however they want!
+- [Speed Carts](https://github.com/andrewlalis/SpeedCarts) is a very simple Minecraft mod (for the Fabric mod loader framework) that allows you to speed up minecarts!
+- [Ace of Shades](https://github.com/andrewlalis/AceOfShades) is a multiplayer, 2D top-down team deathmatch shooter game inspired by Ace of Spades and Counterstrike.
+- [Crystal Keep](https://github.com/andrewlalis/CrystalKeep) is a lightweight encrypted storage solution, that uses AES encryption to safely store login credentials, private text, and any files. Stored items are easily portable to any device with the app installed.
+- [Entity Relation Mapping Editor](https://github.com/andrewlalis/EntityRelationMappingEditor), or ERME for short, is an editor that allows students to play around with the concept of mapping an entity-relational schema diagram to a set of relations, to help teach one of the key steps of relational database design.
+- The [Tengwar Translator](https://github.com/andrewlalis/TengwarTranslator) was one of my first complete Java projects, and is a simple Swing user-interface that can *transliterate* ASCII text into [Tolkien's Tengwar script from Middle Earth](https://en.wikipedia.org/wiki/Tengwar).
 
-  > Note that this <u>isn't</u> translation, but *transliteration*, since we're simply writing English (or whatever language you want) using a different set of characters. It still looks cool though!
+### If you need to reach me...
 
-  The library can be included in your own project if you want to use the translator without the desktop application.
-
-- [ER-Mapping Editor](https://github.com/andrewlalis/EntityRelationMappingEditor) Editor for creating simple entity-relation mapping diagrams, mostly for use in teaching the concept of Entity-Relational-Mapping to students studying information systems.
-
-- [BlockBookBinder 📕](https://github.com/andrewlalis/BlockBookBinder) Formats and exports large texts into Minecraft books! Basically a fully-automatic printing press that turns pages and pastes content for you.
-
-- [Insights](https://github.com/Java-Discord/InsightsBot) A Discord bot application which you can add to your server to track messages, active user counts, and much more.
-
-### You can reach me via...
-
-- ✉️ <andrewlalisofficial@gmail.com>
-- 🎮 `Andrew.#3939` on Discord, or via the [Java](https://join.javadiscord.net) Server.
-- [<img alt="Andrew Lalis | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> My YouTube Channel](https://www.youtube.com/channel/UC9X4mx6-ObPUB6-ud2IGAFQ) *(mostly modded Minecraft computer sciency stuff)*
+- ✉️ <andrewlalisofficial@gmail.com> (or [andrew.lalis@gyrobian.com](mailto:andrew.lalis@gyrobian.com) for business inquiries)
+- 🎮 `Andrew.#3939` on Discord.
+- [<img alt="Andrew Lalis | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> My YouTube Channel](https://www.youtube.com/channel/UC9X4mx6-ObPUB6-ud2IGAFQ)
 - 🐦 [@andrewlalis](https://twitter.com/andrewlalis) on Twitter *(although I rarely use it)*
 
 ### Shameless Wall of Self-Promotion
 
 - 🏆 Oracle Certified Java SE 7 Programmer
-- 🏆 Oracle Certified Java SE 11 Developer
+- 🏆 Oracle Certified Java SE 11 Professional
 - **Over 9 years** of experience in Java programming
 - **Over 3 years** of experience in web development in Php and Spring Boot.
 - 🎓 **4 years** of experience as a *Technical Supervisor* for multiple University-level courses.
