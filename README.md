@@ -1,6 +1,6 @@
 ## 👋 I'm Andrew, and this is my GitHub profile!
 
-I'm a software engineer, and co-founder of [Gyrobian Software & Consulting](https://www.gyrobian.nl/). I specialize in the following technologies:
+I'm a software engineer. I specialize in the following technologies:
 
 - *Programming languages* such as Java, C, D, Python, Lua, Javascript, Bash, and PHP
 - *Databases* such as PostgreSQL, MySQL, MariaDB, SQLite, H2, Redis, and MongoDB
@@ -10,7 +10,7 @@ Furthermore, my experience in software engineering includes projects in the foll
 
 ### If you need to reach me...
 
-- ✉️ <andrewlalisofficial@gmail.com> (or [andrew.lalis@gyrobian.com](mailto:andrew.lalis@gyrobian.com) for business inquiries)
+- ✉️ <andrewlalisofficial@gmail.com>
 - `Andrew.#3939` on Discord
 - [<img alt="Andrew Lalis | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> My YouTube Channel](https://www.youtube.com/channel/UC9X4mx6-ObPUB6-ud2IGAFQ)
 
