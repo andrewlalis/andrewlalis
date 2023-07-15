@@ -11,7 +11,7 @@ Furthermore, my experience in software engineering includes projects in the foll
 ### If you need to reach me...
 
 - ✉️ <andrewlalisofficial@gmail.com>
-- `Andrew.#3939` on Discord
+- `____andrew____` on Discord
 - [<img alt="Andrew Lalis | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> My YouTube Channel](https://www.youtube.com/channel/UC9X4mx6-ObPUB6-ud2IGAFQ)
 
 ### Shameless Wall of Self-Promotion
