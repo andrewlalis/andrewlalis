@@ -1,5 +1,7 @@
 ## 👋 I'm Andrew, and this is my GitHub profile!
 
+**⚠️ I no longer host my code on GitHub. You can find my work on [git.andrewlalis.com](https://git.andrewlalis.com).**
+
 I'm a software engineer. I specialize in the following technologies:
 
 - *Programming languages* such as Java, C, D, Python, Lua, Javascript, Bash, and PHP
@@ -7,12 +9,6 @@ I'm a software engineer. I specialize in the following technologies:
 - *Web Frameworks* such as Spring (Java), Django (Python), and Vue (Javascript)
 
 Furthermore, my experience in software engineering includes projects in the following domains: **Customer Relations Management**, **Student Information Systems**, **Enterprise Process Automation**, **IOT Firmware Development**, **Desktop Applications**, and **2D and 3D Graphics**. For more information about my experience and skills, please contact me via one of the methods below.
-
-### If you need to reach me...
-
-- ✉️ <andrewlalisofficial@gmail.com>
-- `____andrew____` on Discord
-- [<img alt="Andrew Lalis | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> My YouTube Channel](https://www.youtube.com/channel/UC9X4mx6-ObPUB6-ud2IGAFQ)
 
 ### Shameless Wall of Self-Promotion
 
